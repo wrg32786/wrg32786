@@ -1,6 +1,6 @@
 ### Hi, I'm Will Gwyn
 
-I build open-source tooling for running AI coding agents, and I write [The AIgent](https://theaigent.xyz), a daily newsletter for people building with AI with close to 9,000 subscribers.
+I build open-source tooling for running AI coding agents, and I write [The AIgent](https://theaigent.xyz), a daily newsletter for people building with AI with over 10,000 subscribers.
 
 #### What I'm working on now
 
